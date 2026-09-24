@@ -1,1 +1,12 @@
-html slt;/DOCTYPE html&gt; &lt;html lang="tr"&gt; &lt;head&gt; &lt;meta charset="UTF-8"&gt; &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt; &lt;title&gt;Web Sitem&lt;/ title&gt; &lt;/head&gt; &lt;body&gt; &lt;h1&gt;Merhaba Dünya! &lt;/h1&gt; &lt;p&gt;Bu benim ilk yayinimdr.&lt;/p&gt; &lt;/body&gt; &lt;/html&gt;
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Sitem</title>
+</head>
+<body>
+    <h1>Merhaba Dünya!</h1>
+    <p>Bu benim ilk yayınımdır.</p>
+</body>
+</html>
